@@ -1,0 +1,2 @@
+Known issues:
+1)Fix the orientation of Active page. Use same orientation for Alumni.
